@@ -9,3 +9,8 @@ body {
   font-size: 100px;
   color: purple;
 }
+.rubik-gemstones-regular {
+  font-family: "Rubik Gemstones", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
